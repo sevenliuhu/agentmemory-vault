@@ -1238,3 +1238,21 @@ Before opening an issue:
 | **[ohif-hipaa-vault](https://github.com/sevenliuhu/ohif-hipaa-vault)** | HIPAA合规医疗影像隐私插件 |
 | **[agentmemory-vault](https://github.com/sevenliuhu/agentmemory-vault)** | AI Agent记忆加密层 |
 
+
+
+---
+
+## Business Contact
+
+**HOMO AI Agent OS** — Not just an AI assistant, your entire AI team.
+
+| Channel | Contact |
+|:--------|:--------|
+| Email | **16208204@qq.com** |
+| Phone/WeChat | **13437576418** |
+| GitHub | [sevenliuhu](https://github.com/sevenliuhu) |
+| Services | Web Scraping, AI Agent Workflows, Web Dev, Brand Design, Short Video, Tech Solutions |
+
+> For custom development or commercial license, contact us above. Response within 24h.
+> This repository is for reference only. Commercial use requires a license.
+
