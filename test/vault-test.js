@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com */
 /**
  * AgentMemory Vault — 验证测试
  * 
