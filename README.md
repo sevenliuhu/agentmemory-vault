@@ -1224,3 +1224,17 @@ Before opening an issue:
 | [MCP Secure](https://github.com/sevenliuhu/mcp-secure) | 🛡️ MCP protocol security layer |
 | [API Secure Gateway](https://github.com/sevenliuhu/api-secure-gateway) | 🚪 Enterprise API security |
 | [Dify Security Gateway](https://github.com/sevenliuhu/dify-security-gateway) | 🤖 Dify AI security gateway |
+
+
+---
+
+## 🏗️ 产品矩阵
+
+| 项目 | 说明 |
+|:-----|:------|
+| **[browserhand](https://github.com/sevenliuhu/browserhand)** | 隐身浏览器自动化工具包 |
+| **[homo-cloaked-playwright](https://github.com/sevenliuhu/homo-cloaked-playwright)** | Chromium隐身浏览器，Playwright兼容接口 |
+| **[skill-vault](https://github.com/sevenliuhu/skill-vault)** | AI技能加密保护 |
+| **[ohif-hipaa-vault](https://github.com/sevenliuhu/ohif-hipaa-vault)** | HIPAA合规医疗影像隐私插件 |
+| **[agentmemory-vault](https://github.com/sevenliuhu/agentmemory-vault)** | AI Agent记忆加密层 |
+
