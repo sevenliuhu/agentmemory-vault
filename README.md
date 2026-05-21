@@ -1225,7 +1225,6 @@ Before opening an issue:
 | [API Secure Gateway](https://github.com/sevenliuhu/api-secure-gateway) | 🚪 Enterprise API security |
 | [Dify Security Gateway](https://github.com/sevenliuhu/dify-security-gateway) | 🤖 Dify AI security gateway |
 
-
 ---
 
 ## 🏗️ 产品矩阵
@@ -1238,8 +1237,6 @@ Before opening an issue:
 | **[ohif-hipaa-vault](https://github.com/sevenliuhu/ohif-hipaa-vault)** | HIPAA合规医疗影像隐私插件 |
 | **[agentmemory-vault](https://github.com/sevenliuhu/agentmemory-vault)** | AI Agent记忆加密层 |
 
-
-
 ---
 
 ## Business Contact
@@ -1249,7 +1246,7 @@ Before opening an issue:
 | Channel | Contact |
 |:--------|:--------|
 | Email | **16208204@qq.com** |
-| Phone/WeChat | **** |
+
 | GitHub | [sevenliuhu](https://github.com/sevenliuhu) |
 | Services | Web Scraping, AI Agent Workflows, Web Dev, Brand Design, Short Video, Tech Solutions |
 
